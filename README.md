@@ -7,6 +7,8 @@ Basic project created as a learning exercise while following an [Unity tutorial]
 **Language:** C# <br>
 **Timeframe:** April 2022
 
+![](./TemplateData/cover.png)
+
 ## 🔗 Play Online
 
 Check out the live version here: <br>
